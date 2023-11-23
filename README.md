@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Waliduzzaman-Sourov
 - 👀 I’m interested in front end developer
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on front end developig
+- 💞️ I’m looking to collaborate with front end developers
 - 📫 How to reach me?see below
 - FB( https://www.facebook.com/waliduzzamanwalid.walid.9/ )
 - discord( sourov0531_93678 )
