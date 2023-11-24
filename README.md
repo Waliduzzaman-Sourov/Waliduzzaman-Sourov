@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Waliduzzaman-Sourov
-- 👀 I’m interested in front end developer
+- 👀 I’m interested in front end developing
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate with front end developers
 - 📫 How to reach me?see below
